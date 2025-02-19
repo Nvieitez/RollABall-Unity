@@ -32,5 +32,7 @@ El programa cuenta con funcionalidades relacionadas en estados, los cuales recog
 ![Sistema de estados](Images/06.png)
 
 # Funcionamiento en android
+El juego tiene soporte completo con android, funcionando gracias al acelerometro y a sus componentes
 
+![Funcionamiento en móvil]()
 
